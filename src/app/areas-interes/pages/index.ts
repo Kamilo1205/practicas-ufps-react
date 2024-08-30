@@ -1,0 +1,1 @@
+export { AreasInteresPage } from './AreasInteresPage';
